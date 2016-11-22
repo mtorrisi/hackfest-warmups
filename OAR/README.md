@@ -15,7 +15,10 @@ limitations under the License. -->
 
 # Warmups for Open Access Repository
 
-This directory shows how to interact with the Invenio API to use the Open Access repository.
+This directory shows how to interact with the Invenio API to use the Open Access repository. Warmups are in the langugage-specific directories:
+
+  * curl
+  * php
 
 ## Search
 
