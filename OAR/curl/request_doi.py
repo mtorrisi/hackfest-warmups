@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# A simple python script that create a DOI based on system timestamp.
+
 import json,cgi,time
 import httplib2, sys, base64, codecs
 
