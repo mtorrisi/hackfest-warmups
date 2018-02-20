@@ -4,6 +4,6 @@
 
 import cgi,time
 
-doi_prefix='11623'
-doi =  "%s/sci-gaia:%s" % (doi_prefix,time.time())
+doi_prefix='20372'
+doi =  "%s/ethernet:%s" % (doi_prefix,time.time())
 print doi

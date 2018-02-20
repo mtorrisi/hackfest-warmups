@@ -2,7 +2,7 @@
 
 $file_path_str = 'publication-submission-to-OAR.xml';
 
-$url_path_str = 'http://oar.sci-gaia.eu/batchuploader/robotupload/insert';
+$url_path_str = 'http://oar2.ethernet.edu.et/batchuploader/robotupload/insert';
 $headers = [
     'Content-Type: application/marcxml+xml',
     'User-Agent: invenio_webupload'

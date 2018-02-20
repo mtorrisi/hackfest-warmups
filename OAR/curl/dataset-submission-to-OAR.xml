@@ -2,7 +2,7 @@
 <collection xmlns="http://www.loc.gov/MARC21/slim">
 <record xmlns="http://www.loc.gov/MARC21/slim">
       <datafield tag="024" ind1="7" ind2=" ">
-           <subfield code="a">10.15169/sci-gaia:1479297245.67</subfield>
+           <subfield code="a">replace-with-valid-DOI</subfield>
            <subfield code="2">DOI</subfield>
     </datafield>
     <datafield tag="260" ind1=" " ind2=" ">
