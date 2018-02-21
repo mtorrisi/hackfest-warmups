@@ -2,15 +2,15 @@
 <collection xmlns="http://www.loc.gov/MARC21/slim">
 <record xmlns="http://www.loc.gov/MARC21/slim">
       <datafield tag="024" ind1="7" ind2=" ">
-           <subfield code="a">replace-with-valid-DOI</subfield>
+           <subfield code="a">replace-with-valid-doi</subfield>
            <subfield code="2">DOI</subfield>
     </datafield>
     <datafield tag="260" ind1=" " ind2=" ">
-	  <subfield code="c">2016-11-22</subfield>
+	  <subfield code="c">2018-01-22</subfield>
      </datafield>
      <datafield tag="100" ind1=" " ind2=" ">
-          <subfield code="a">John Smith</subfield>
-          <subfield code="v">University of City</subfield>
+          <subfield code="a">Mario Torrisi</subfield>
+          <subfield code="v">University of Catania</subfield>
           <subfield code="w">Italy</subfield>
           <subfield code="j">0000-0002-5532-8201</subfield>
     </datafield>
@@ -53,7 +53,7 @@
           <subfield code="a">http://grid.ct.infn.it/hackfest/example-publication.pdf</subfield>
     </datafield>
     <datafield xmlns="" tag="980" ind1=" " ind2=" ">
-          <subfield code="a">PUBLICATIONSHACKFEST</subfield>
+          <subfield code="a">PUBLICATIONSOTHER</subfield>
     </datafield>
     <datafield xmlns="" tag="041" ind1=" " ind2=" ">
           <subfield code="a">eng</subfield>
